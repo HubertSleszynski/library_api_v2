@@ -1,0 +1,17 @@
+.header-content {
+  min-height: 75vh;
+  background: linear-gradient(rgba(39, 174, 163, 0.3), rgba(141, 39, 174, 0.5)),
+    url("../../images/pexels-engin-akyurt-2767814.jpg") center/cover no-repeat;
+  flex-direction: column;
+}
+.header-title {
+  font-size: 4.2rem;
+  text-shadow: 4px 6px 6px rgba(0, 0, 0, 1);
+}
+
+.header-text {
+  margin-top: -1.8rem;
+  margin-bottom: 2.8rem;
+  opacity: 0.8;
+  max-width: 770px;
+}
